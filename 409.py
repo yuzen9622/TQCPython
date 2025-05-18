@@ -9,9 +9,9 @@ for i in range(5):
         total2+=1
     else:
         total_null+=1
-    print("Total votes of No.1: Nami = %d"%total1)
-    print("Total votes of No.1: Chopper = %d"%total2)
-    print("Total null votes = %d"%total_null)
+    print("Total votes of No.1: Nami =  %d"%total1)
+    print("Total votes of No.2: Chopper =  %d"%total2)
+    print("Total null votes =  %d"%total_null)
 if total1>total2:
     print("=> No.1 Nami won the election.")
 elif total2>total1:

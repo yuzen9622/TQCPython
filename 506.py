@@ -6,5 +6,5 @@ def compute(a,b,c):
         ans=-b/2*a
         print(ans)
     elif tmp>0:
-        print("%.1f , %.1f"%(((-b+tmp**0.5)/(2*a)),((-b-tmp**0.5)/(2*a))))
+        print("%.1f, %.1f"%(((-b+tmp**0.5)/(2*a)),((-b-tmp**0.5)/(2*a))))
 compute(int(input()),int(input()),int(input()))

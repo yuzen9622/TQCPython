@@ -9,7 +9,7 @@ t=tuple(l)
 print(t)
 print(f'Length: {len(t)}')
 print(f'Max: {max(t)}')
-print(f'min: {min(t)}')
+print(f'Min: {min(t)}')
 print(f'Sum: {sum(t)}')
 
     

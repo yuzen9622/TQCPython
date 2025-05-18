@@ -14,5 +14,5 @@ for  i in range(9):
     n=int(input())
     s3.add(n)
 
-print(f'set2 is subset of set1:{s2.issubset(s1)}')
-print(f'set3 is superset of set1:{s3.issuperset(s1)}')
+print(f'set2 is subset of set1: {s2.issubset(s1)}')
+print(f'set3 is superset of set1: {s3.issuperset(s1)}')

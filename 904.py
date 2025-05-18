@@ -21,5 +21,5 @@ for i in w:
 print(f'Average height: {sum(height)/len(w):.2f}')
 print(f'Average weight: {sum(width)/len(w):.2f}')
 print(f'The tallest is {tname} with {tall:.2f}cm')
-print(f'The heaviest is {hname} with {heav:.2f}cm')
+print(f'The heaviest is {hname} with {heav:.2f}kg')
 

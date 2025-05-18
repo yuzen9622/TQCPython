@@ -17,5 +17,5 @@ t1+=t2
 
 l=list(t1)
 l.sort()
-print(f"Combined tuple before sorting:{t1}")
-print(f"Combined list after sorting:{l}")
+print(f"Combined tuple before sorting: {t1}")
+print(f"Combined list after sorting: {l}")
